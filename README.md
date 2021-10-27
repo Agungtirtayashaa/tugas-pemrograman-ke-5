@@ -2,4 +2,7 @@
 ## tugas membuat biodata menggunakan python 
 
 
-![gambar1](tugas-membuat-biodata/tugaske5)
+### membuat paragraf
+![gambar1](tugas1/hasil.jpg)
+
+
